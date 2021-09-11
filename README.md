@@ -1,4 +1,4 @@
-# Project from CodeAcademy - Completed by Claire Landis
+# Project completed based on data from CodeAcademy
 R-ACLU-Child-Separation
 
 In 2018, United States President Donald Trump enacted a family separation policy at the US-Mexico border. Under the policy, as immigrant families entered the United States, children were separated from the rest of their families by U.S. Immigration and Customs Enforcement (ICE) and brought to detention facilities around the country.
